@@ -1,0 +1,36 @@
+2025-08-17 21:15:03,583 - src.data.analysis - INFO - No numerical columns with missing values found.
+2025-08-17 21:15:03,586 - src.data.analysis - INFO -   No categorical columns with missing values found.
+2025-08-17 21:15:03,588 - src.data.analysis - INFO - DataFrame shape after handling missing values: (284807, 31)
+2025-08-17 21:15:03,592 - src.data.analysis - INFO - 
+ __ Removing Duplicates:
+2025-08-17 21:15:05,065 - src.data.analysis - INFO -   Removed 1081 duplicate rows.
+2025-08-17 21:15:05,066 - src.data.analysis - INFO - DataFrame shape after removing duplicates: (283726, 31)
+2025-08-17 21:15:05,068 - src.data.analysis - INFO - 
+--- Data Cleaning and Preprocessing Complete ---
+2025-08-17 21:15:05,069 - src.data.analysis - INFO - Final DataFrame shape: (283726, 31)
+2025-08-17 21:15:05,267 - src.data.analysis - INFO - Column 'Time' successfully converted to datetime.
+2025-08-17 21:15:35,979 - src.data.analysis - INFO - data preprocess has completed successfully
+2025-08-17 21:15:36,161 - src.data.analysis - INFO - No numerical columns with missing values found.
+2025-08-17 21:15:36,163 - src.data.analysis - INFO -   No categorical columns with missing values found.
+2025-08-17 21:15:36,164 - src.data.analysis - INFO - DataFrame shape after handling missing values: (151112, 11)
+2025-08-17 21:15:36,166 - src.data.analysis - INFO - 
+ __ Removing Duplicates:
+2025-08-17 21:15:36,434 - src.data.analysis - INFO -   No duplicate rows found.
+2025-08-17 21:15:36,436 - src.data.analysis - INFO - DataFrame shape after removing duplicates: (151112, 11)
+2025-08-17 21:15:36,439 - src.data.analysis - INFO - 
+--- Data Cleaning and Preprocessing Complete ---
+2025-08-17 21:15:36,440 - src.data.analysis - INFO - Final DataFrame shape: (151112, 11)
+2025-08-17 21:15:36,532 - src.data.analysis - INFO - Column 'signup_time' successfully converted to datetime.
+2025-08-17 21:15:36,616 - src.data.analysis - INFO - Column 'purchase_time' successfully converted to datetime.
+2025-08-17 21:15:39,483 - src.data.analysis - INFO - data preprocess has completed successfully
+2025-08-17 21:15:39,524 - src.data.analysis - INFO - No numerical columns with missing values found.
+2025-08-17 21:15:39,526 - src.data.analysis - INFO -   No categorical columns with missing values found.
+2025-08-17 21:15:39,529 - src.data.analysis - INFO - DataFrame shape after handling missing values: (138846, 3)
+2025-08-17 21:15:39,531 - src.data.analysis - INFO - 
+ __ Removing Duplicates:
+2025-08-17 21:15:39,589 - src.data.analysis - INFO -   No duplicate rows found.
+2025-08-17 21:15:39,590 - src.data.analysis - INFO - DataFrame shape after removing duplicates: (138846, 3)
+2025-08-17 21:15:39,591 - src.data.analysis - INFO - 
+--- Data Cleaning and Preprocessing Complete ---
+2025-08-17 21:15:39,592 - src.data.analysis - INFO - Final DataFrame shape: (138846, 3)
+2025-08-17 21:15:40,444 - src.data.analysis - INFO - data preprocess has completed successfully
